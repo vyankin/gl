@@ -1,0 +1,7 @@
+stages:
+    - run
+    
+exec:
+    stage: run
+    script:
+        - sh ./cmd_bash.sh
