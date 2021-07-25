@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   mongo:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-07-25T19:48:57.145487668+03:00"
+    appVersion: 0.0.2b
+    created: "2021-07-25T20:14:48.752717912+03:00"
     description: A Helm chart for Kubernetes
-    digest: 26666ad583818aa859040a6e0e27d39b16cdcbae46d143d03dc08a4f08594345
+    digest: b0ebf6b943bf6573d34eb9499162978b02343173797eba4e3e70a323e3375212
+    name: mongo
+    type: application
+    urls:
+    - https://vyankin.github.io/helm-charts/mongo-21.7.25-9976321.tgz
+    version: 21.7.25-9976321
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-25T20:14:48.752043934+03:00"
+    description: A Helm chart for Kubernetes
+    digest: d8c7b3fe0b74e9ccff93eb486002b76c81ee8f26dd24ffa63f6c8e9c12763726
     name: mongo
     type: application
     urls:
     - https://vyankin.github.io/helm-charts/mongo-21.7.25-918471.tgz
     version: 21.7.25-918471
-generated: "2021-07-25T19:48:57.144592446+03:00"
+generated: "2021-07-25T20:14:48.751145465+03:00"
