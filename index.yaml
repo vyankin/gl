@@ -3,7 +3,7 @@ entries:
   engine-x:
   - apiVersion: v2
     appVersion: 0.0.3-alpha
-    created: "2021-07-25T14:00:27.449355093+03:00"
+    created: "2021-07-25T17:27:45.194839079+03:00"
     description: A Helm chart for Kubernetes
     digest: 36e4a56fd78519c4612738c5614fd41aed02c467646a40c43902b9e8160805a9
     name: engine-x
@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-25T14:00:27.448499814+03:00"
+    created: "2021-07-25T17:27:45.194120559+03:00"
     description: A Helm chart for Kubernetes
     digest: 9a0556256c86558159fcdb37897461baa0873c8505a15f35f8aa872186dafd33
     name: engine-x
@@ -24,12 +24,12 @@ entries:
   mongo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-25T14:00:27.450126402+03:00"
+    created: "2021-07-25T17:27:45.195460116+03:00"
     description: A Helm chart for Kubernetes
-    digest: 6411fbd0f8e3418aa4efd0567a3cb35cd4b007c2c887c76b17ce6a45d9393bee
+    digest: 9649a37235a43c1341462c83949beded36a98ca36f4e5a03447d99bc257836d4
     name: mongo
     type: application
     urls:
     - https://vyankin.github.io/helm-charts/mongo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-25T14:00:27.447264066+03:00"
+generated: "2021-07-25T17:27:45.193203671+03:00"
