@@ -3,7 +3,7 @@ entries:
   mongo:
   - apiVersion: v2
     appVersion: "4.4"
-    created: "2021-07-30T16:42:08.108778944+03:00"
+    created: "2021-07-30T16:44:30.354318955+03:00"
     description: A Helm chart for Kubernetes
     digest: fd3b00e2d98e3fb4166e1897f3070748fa31851751e2cbdd8401664dd6aa0874
     name: mongo
@@ -13,7 +13,7 @@ entries:
     version: 21.7.30-10216023
   - apiVersion: v2
     appVersion: "4.4"
-    created: "2021-07-30T16:42:08.107886956+03:00"
+    created: "2021-07-30T16:44:30.353663651+03:00"
     description: A Helm chart for Kubernetes
     digest: eb770b18e7c82a5671a8860f4176b9d95ba4c2a94e64f46e5fa16d2737a335bf
     name: mongo
@@ -23,7 +23,7 @@ entries:
     version: 21.7.30-10214069
   - apiVersion: v2
     appVersion: "4.4"
-    created: "2021-07-30T16:42:08.107104711+03:00"
+    created: "2021-07-30T16:44:30.352642601+03:00"
     description: A Helm chart for Kubernetes
     digest: 4b638e893675efe70b96975f52c1c2da8d409da7f67a6f4d95a221d6f82f3f29
     name: mongo
@@ -33,7 +33,7 @@ entries:
     version: 21.7.30-10213874
   - apiVersion: v2
     appVersion: 4.4-bionic
-    created: "2021-07-30T16:42:08.106265339+03:00"
+    created: "2021-07-30T16:44:30.351531526+03:00"
     description: A Helm chart for Kubernetes
     digest: c3ad45aacdb6a61b81c423a4984bb79a57f26f68e3e9a7527ffb66e8cac87ff2
     name: mongo
@@ -43,7 +43,7 @@ entries:
     version: 21.7.26-9978118
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-30T16:42:08.105485832+03:00"
+    created: "2021-07-30T16:44:30.350258104+03:00"
     description: A Helm chart for Kubernetes
     digest: d8c7b3fe0b74e9ccff93eb486002b76c81ee8f26dd24ffa63f6c8e9c12763726
     name: mongo
@@ -54,7 +54,7 @@ entries:
   tchallenge-participant:
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2021-07-30T16:42:08.109577587+03:00"
+    created: "2021-07-30T16:44:30.3556235+03:00"
     description: A Helm chart for Kubernetes
     digest: de086248ad28669731f3e06b88d270a980f12eba8c8cefa3f0ac34900055bc27
     name: tchallenge-participant
@@ -65,7 +65,17 @@ entries:
   tchallenge-service:
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2021-07-30T16:42:08.110357502+03:00"
+    created: "2021-07-30T16:44:30.357500693+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 61e47c451c607a5597718b7c6a2e39c4b76bacea304c86744eb693121f514a66
+    name: tchallenge-service
+    type: application
+    urls:
+    - https://vyankin.github.io/helm-charts/tchallenge-service-21.7.30-10216107.tgz
+    version: 21.7.30-10216107
+  - apiVersion: v2
+    appVersion: 1.1.2
+    created: "2021-07-30T16:44:30.356877849+03:00"
     description: A Helm chart for Kubernetes
     digest: 1fd0235601720f7fb0746d4d975771f67f59227d6ee0ca910c44988764f95588
     name: tchallenge-service
@@ -73,4 +83,4 @@ entries:
     urls:
     - https://vyankin.github.io/helm-charts/tchallenge-service-21.7.30-10214222.tgz
     version: 21.7.30-10214222
-generated: "2021-07-30T16:42:08.10441878+03:00"
+generated: "2021-07-30T16:44:30.348677302+03:00"
